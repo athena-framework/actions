@@ -1,6 +1,6 @@
 # Actions
 
-Centralized location for common Github Actions used thoughout Athena Framework.
+Centralized location for common Github Actions used throughout Athena.
 
 Currently supported actions:
 
